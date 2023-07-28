@@ -1,12 +1,12 @@
 {
-  "name": "todo",
+  "name": "ehsafin-strapi-todo",
   "version": "0.0.0",
   "description": "This is the description of the plugin.",
   "strapi": {
-    "name": "todo-plugin",
+    "name": "ehsafin-strapi-todo",
     "description": "Description of Todo plugin",
     "kind": "plugin",
-    "displayName": "Todo-strapi"
+    "displayName": "ehsafin-strapi-todo"
   },
   "dependencies": {
     "@strapi/design-system": "^1.6.3",
